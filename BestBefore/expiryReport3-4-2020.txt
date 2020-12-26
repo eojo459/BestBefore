@@ -1,0 +1,13 @@
+  Expiry report for the next 60 days
+  Fri Apr 03 13:10:41 MDT 2020
+
+  --------------------------------------------------------------------------------------------------
+  UPC	Name		Quantity	Exp.Date
+  --------------------------------------------------------------------------------------------------
+  05557710400	AUNTJEMIMAPANCAKEMIX	8	22/5/2020
+  06038305897	PCPANCAKEMIXPREMI	8	25/5/2020
+  07240001159	CREAMOFWHEAT3MIN	10	9/5/2020
+  06038369022	PCOOATSQUICKROLLED	8	13/4/2020
+  06038378132	PCMBSTEELCUTOATS	8	13/4/2020
+  74343401126	LINDTHAZELNUTSPREAD	8	4/5/2020
+  06810089231	KRAFTCHEEZWHIZORIG	12	5/4/2020
