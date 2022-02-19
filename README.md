@@ -1,6 +1,6 @@
 # BestBefore
 
-This was a group term project created for COMP 2633 - Foundations of Software Engineering at Mount Royal University, Calgary, Alberta, Canada
+This was a group term project created for COMP 2633 - Foundations of Software Engineering at Mount Royal University.
 
 This project is a concept of how a grocery store's database could implement an expiry date checker into their system, and how it could work.
 
